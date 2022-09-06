@@ -10,7 +10,7 @@
 
 const precoCombustivel = 5.79;
 const kmPorlitros = 12;
-const distanciaEmKm = 1580;
+const distanciaEmKm = 1.580;
 
 const litrosConsumidos = distanciaEmKm / kmPorlitros;
 const valorGasto = litrosConsumidos *  precoCombustivel;
